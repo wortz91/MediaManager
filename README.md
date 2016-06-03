@@ -3,3 +3,4 @@ This is a web application that allows a user to add movies to database that stor
 
 Screen Shots of the web application are in the MiscFiles folder.
 There is a beginning of an AngularJS web page.
+This also has a database dump that can be executed on any MySQL database to create this application in its entirety.
